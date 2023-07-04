@@ -1,4 +1,7 @@
-# LOREM
+# IPSUM
+
+this is the same page as lorem.
+
 
 ## subtitle 1
 
